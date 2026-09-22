@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "d9f322b6d840a743a8336c58",
+  "owner": "mumdvvmp",
+  "repo": "page-425d267042e0f0154a964214",
+  "title": "惊叹号",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "425d267042e0f0154a964214",
+      "a": "惊叹号",
+      "b": "稳定全球clash加速器",
+      "entity": "惊叹号",
+      "brand": "惊叹号",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "91824e1cfdc51d6e4573d9a4b650da78b9b7f61072237c73d3682c49fc37c8d7",
+      "content": {
+        "primary_entity": "惊叹号",
+        "keyword1": "惊叹号",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "惊叹号在 Windows、macOS、Android、iOS 与路由器环境均有对应订阅方式，选择与设备匹配的客户端后导入订阅地址即可。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好套餐后导入订阅，开始稳定连接。",
+          "AI_CLOSING_TITLE": "惊叹号，连接从此简单",
+          "AI_DESCRIPTION": "，惊叹号提供基础版、旗舰版与团队版三档订阅，基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备并含 IPLC 专线游戏优化；团队版每月 1000GB、支持 20 台设备与定制路由。按年付分别只需 ¥150、¥350、¥850，可按人数与流量需求选择。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量与订阅周期三个角度快速了解惊叹号。",
+          "AI_FEATURES_TITLE": "惊叹号订阅要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备；团队版每月 1000GB、20 台设备。",
+          "AI_FEATURE_TEXT_2": "手机、电脑与路由器可按需分配，旗舰版适合多设备家庭，团队版适合小规模协作。",
+          "AI_FEATURE_TEXT_3": "月付灵活起步，年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850，长周期更省。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TITLE_2": "按设备配比",
+          "AI_FEATURE_TITLE_3": "按月付或年付",
+          "AI_GUIDE_INTRO": "确认设备数量与流量需求后选择套餐，再按客户端文档导入订阅。",
+          "AI_GUIDE_TITLE": "三步用上惊叹号",
+          "AI_HERO_INTRO": "惊叹号提供基础版、旗舰版与团队版三档订阅，覆盖从个人到小团队的设备与流量需求。选择合适档位后，按所用客户端的文档配置订阅，即可在日常浏览、流媒体与游戏场景中使用。",
+          "AI_HERO_SUBTITLE": "三档套餐，适配不同设备",
+          "AI_HIGHLIGHT_1": "每月 100GB 到 1000GB 流量",
+          "AI_HIGHLIGHT_2": "3 至 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "年付低至每月约 ¥12.5",
+          "AI_PLANS_INTRO": "基础版适合单人轻量使用，旗舰版含 IPLC 专线游戏加速，团队版提供 VIP 高带宽节点与定制路由，可按设备数与流量对比选择。",
+          "AI_PLANS_TITLE": "对比三档订阅",
+          "AI_STEP_TEXT_1": "根据常用设备数量与月流量需求，在基础版、旗舰版、团队版之间选定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备上限与节点类型，确认客户端系统版本满足订阅导入要求。",
+          "AI_STEP_TEXT_3": "在客户端中新建订阅并粘贴购买后获得的地址，更新节点后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "惊叹号订阅选择",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量，支持 3 台设备；旗舰版每月 300GB，支持 5 台设备；团队版每月 1000GB，支持 20 台设备。",
+          "AI_FAQ_ANSWER_2": "可以。基础版解锁基础流媒体，旗舰版提供全节点原生流媒体解锁，团队版则配备 VIP 专属高带宽节点。",
+          "AI_FAQ_ANSWER_3": "旗舰版与团队版均可按年付，旗舰版年付 ¥350，团队版年付 ¥850，比月付更划算。",
+          "AI_FAQ_ANSWER_4": "选择设备对应的客户端，下载后导入订阅链接，即可开始使用。具体配置步骤请参考客户端文档。",
+          "AI_FAQ_ANSWER_5": "旗舰版提供 7x24 优先工单支持，团队版额外配备专属客户经理服务，响应更及时。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "不同套餐的流量和设备数量有什么区别？",
+          "AI_FAQ_QUESTION_2": "流媒体解锁在各套餐中有何差异？",
+          "AI_FAQ_QUESTION_3": "是否支持按年付费？",
+          "AI_FAQ_QUESTION_4": "如何在设备上配置订阅？",
+          "AI_FAQ_QUESTION_5": "遇到问题如何获得支持？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "lldlhma.cn",
+    "host": "lldlhma.cn"
+  },
+  "file_hashes": {
+    "index.html": "f023a4f8f0a4c98c72f6ed42d8169481b90537d076581af12af5c426048ce99f",
+    "sitemap.xml": "443bc8f56dcebcc908956bc512b044f9b43ab459aba56932d22ce22299f8c3fe",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "22afb2abb83d548e8084973ab9e38ad0379bff4278903eee0ded6d9ce091b85d",
+    "robots.txt": "55b33e686196f2a6824891ed609d6d689dd9f526425e73f1f28f68e09daf9878",
+    "fb106eac74b6a09bd01ef224cbf70229.txt": "2c9a7820769975d6f1d81541fe56b7740ed7bec905ddca80bc487c5dd89669d2"
+  },
+  "revision": "610a339d254a614e059fc7d0754a2bf4ea5b2a727302d9d288e6bec00a8247e7"
+}
